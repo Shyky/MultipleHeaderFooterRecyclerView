@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipleHeaderFooterRecyclerView</string>
+    <string-array name="menus">
+        <item>LinearLayoutManager</item>
+        <item>GridLayoutManager</item>
+        <item>StaggeredGridLayoutManager</item>
+    </string-array>
+</resources>
